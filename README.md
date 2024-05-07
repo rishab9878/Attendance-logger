@@ -14,7 +14,4 @@ Check out the Contributing Guidelines to learn more!
 ## Is this beginner friendly?
 YES!
 
-## What if I have a problem?
-Contact any maintainer or ACM PESUECC team member!
 
-**This is an official repository maintained by ACM PESUECC for Hacktoberfest 2021!**
